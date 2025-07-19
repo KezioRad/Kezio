@@ -34,6 +34,13 @@
 ![REACT](https://icongr.am/devicon/react-original.svg?size=30&color=currentColor)&nbsp;
 ![PHP](https://devicon-website.vercel.app/api/php/original.svg?size=40)&nbsp;
 
+#### Workstation Tools:
+
+![VScode](https://icongr.am/devicon/visualstudio-plain.svg?size=30&color=currentColor)&nbsp;
+![VScode](https://devicon-website.vercel.app/api/vscode/original.svg?size=30)&nbsp;
+![Git](https://icongr.am/devicon/git-original.svg?size=30&color=currentColor)&nbsp;
+![GitHub](https://icongr.am/devicon/github-original.svg?size=30&color=currentColor)&nbsp;
+![GitLab](https://icongr.am/devicon/gitlab-original.svg?size=30&color=currentColor)&nbsp;
 
 &nbsp;
 &nbsp;
