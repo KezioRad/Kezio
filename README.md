@@ -19,6 +19,7 @@
 
 ## My Skills
 
+
 #### Main Stack:
 
 ![Csharp](https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor&alt="C#")&nbsp;
