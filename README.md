@@ -4,7 +4,7 @@
 
 <p align="center">
   I ❤️ solving meaningful challenges through technology.<br><br>
-  Olá! Sou Kezio, desenvolvedor Back-end com foco em C#, ASP.NET, Entity Framework, LINQ e expressões Lambda. Tenho paixão por criar soluções eficazes, escaláveis e fáceis de usar.
+  Olá! Sou Kezio, desenvolvedor Back-end com foco em C#, ASP.NET e criação de APIs RESTful. Tenho paixão por criar soluções eficazes, escaláveis e fáceis de usar.
 </p>&nbsp;
 
 
@@ -55,6 +55,8 @@
 <a href = "mailto:contato.keziopb@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
 </div>&nbsp;&nbsp;
  
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
